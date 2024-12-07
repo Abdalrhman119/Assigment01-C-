@@ -70,7 +70,7 @@ namespace Assigment01C_
             #endregion
             #region Q10 : What will be the output of the C# code given below?
             //int num = 1, z = 5;
-
+            //
             //if (!(num <= 0))
             //    Console.WriteLine(++num + z++ + " " + ++z);
             //else
